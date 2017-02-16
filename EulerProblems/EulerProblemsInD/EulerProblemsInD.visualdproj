@@ -1,0 +1,11 @@
+<DProject>
+ <ProjectGuid>828c7c39-8a5e-40c4-981c-b2638e070e64</ProjectGuid>
+ <Config name="Debug">
+  <!-- default to defaults -->
+ </Config>
+ <Config name="Release">
+  </Config>
+ <Folder name="EulerProblemsInD">
+  <File path="main.d" />
+ </Folder>
+</DProject>

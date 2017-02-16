@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CareerCup", "CareerCup", "{6CC164D2-C04C-4301-B4F5-7B42FC67E27C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Euler problems", "Euler problems", "{8B6056C8-BD4F-4BAE-B2B6-4F7D575DC09C}"
+EndProject
+Project("{002A2DE9-8BB6-484D-9802-7E4AD4084715}") = "EulerProblemsInD", "EulerProblems\EulerProblemsInD\EulerProblemsInD.visualdproj", "{828C7C39-8A5E-40C4-981C-B2638E070E64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{828C7C39-8A5E-40C4-981C-B2638E070E64}.Debug|x86.ActiveCfg = Debug|Win32
+		{828C7C39-8A5E-40C4-981C-B2638E070E64}.Debug|x86.Build.0 = Debug|Win32
+		{828C7C39-8A5E-40C4-981C-B2638E070E64}.Release|x86.ActiveCfg = Release|Win32
+		{828C7C39-8A5E-40C4-981C-B2638E070E64}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{828C7C39-8A5E-40C4-981C-B2638E070E64} = {8B6056C8-BD4F-4BAE-B2B6-4F7D575DC09C}
+	EndGlobalSection
+EndGlobal
