@@ -9,16 +9,30 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Euler problems", "Euler pro
 EndProject
 Project("{002A2DE9-8BB6-484D-9802-7E4AD4084715}") = "EulerProblemsInD", "EulerProblems\EulerProblemsInD\EulerProblemsInD.visualdproj", "{828C7C39-8A5E-40C4-981C-B2638E070E64}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GeneratingPermutations", "GeneratingPermutations\GeneratingPermutations.vcxproj", "{70722B1D-2188-43F8-8A7C-502A6A40763F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
 		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{828C7C39-8A5E-40C4-981C-B2638E070E64}.Debug|x64.ActiveCfg = Debug|Win32
 		{828C7C39-8A5E-40C4-981C-B2638E070E64}.Debug|x86.ActiveCfg = Debug|Win32
 		{828C7C39-8A5E-40C4-981C-B2638E070E64}.Debug|x86.Build.0 = Debug|Win32
+		{828C7C39-8A5E-40C4-981C-B2638E070E64}.Release|x64.ActiveCfg = Release|Win32
 		{828C7C39-8A5E-40C4-981C-B2638E070E64}.Release|x86.ActiveCfg = Release|Win32
 		{828C7C39-8A5E-40C4-981C-B2638E070E64}.Release|x86.Build.0 = Release|Win32
+		{70722B1D-2188-43F8-8A7C-502A6A40763F}.Debug|x64.ActiveCfg = Debug|x64
+		{70722B1D-2188-43F8-8A7C-502A6A40763F}.Debug|x64.Build.0 = Debug|x64
+		{70722B1D-2188-43F8-8A7C-502A6A40763F}.Debug|x86.ActiveCfg = Debug|Win32
+		{70722B1D-2188-43F8-8A7C-502A6A40763F}.Debug|x86.Build.0 = Debug|Win32
+		{70722B1D-2188-43F8-8A7C-502A6A40763F}.Release|x64.ActiveCfg = Release|x64
+		{70722B1D-2188-43F8-8A7C-502A6A40763F}.Release|x64.Build.0 = Release|x64
+		{70722B1D-2188-43F8-8A7C-502A6A40763F}.Release|x86.ActiveCfg = Release|Win32
+		{70722B1D-2188-43F8-8A7C-502A6A40763F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
